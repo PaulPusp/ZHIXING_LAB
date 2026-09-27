@@ -19,7 +19,7 @@ The `out/` directory contains the export. The GitHub Actions workflow publishes 
 
 Visible `[FILL: …]` markers indicate content requiring verification before partner-facing publication. Graphics in the demo are labeled illustrative schematics and are not project data.
 
-The displayed ZHIXING mark is a provisional navy/cyan geometric symbol. The earlier user-supplied logo and three-institution artwork remain in `public/` for reference, but are not displayed: the formal relationship between ZHIXING and RCSSTEAP and the lab's institutional placement need confirmation before those marks can imply affiliation. Mission, vision, department/founding date, and the DIKWA source citation remain explicitly unapproved in `content/about.json`. The color roles in `tailwind.config.ts` distinguish bright cyan on dark surfaces from muted teal used as legible text on light surfaces.
+The user-supplied ZHIXING logo is displayed in the header and About page; the user-supplied three-logo artwork appears as a subtle site background. The About page displays the RCSSTEAP seal with an explicit note that its formal relationship to ZHIXING has not been confirmed. Mission, vision, department/founding date, and the DIKWA source citation remain explicitly unapproved in `content/about.json`. The color roles in `tailwind.config.ts` distinguish bright cyan on dark surfaces from muted teal used as legible text on light surfaces.
 
 ## Editing site content
 
