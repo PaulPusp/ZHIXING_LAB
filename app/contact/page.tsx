@@ -1,0 +1,1 @@
+export default function Page(){return <section className="hero bg-navy text-white min-h-[55vh] py-24"><div className="container-lab"><p className="eyebrow">ZHIXING Space Lab</p><h1 className="section-title mt-5">Contact</h1><p className="text-slate-300 mt-6">Coming soon.</p></div></section>}
