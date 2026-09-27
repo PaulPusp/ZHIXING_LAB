@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="ZHIXING mark">
+  <rect width="64" height="64" rx="12" fill="#08131F"/>
+  <path d="M16 20H48L16 44H48" fill="none" stroke="#00C9D8" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/>
+  <circle cx="16" cy="20" r="3" fill="#F5F7FA"/>
+  <circle cx="48" cy="44" r="3" fill="#F5F7FA"/>
+</svg>
