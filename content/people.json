@@ -1,14 +1,24 @@
 {
   "lead": {
     "name": "Professor Sheikh Tawhidul Islam",
-    "role": "[FILL: verified position and affiliation]",
-    "areas": "[FILL: verified research areas]",
-    "bio": "[FILL: approved short bio, approximately 100 words]",
-    "photo": "",
+    "role": "Professor, RCSSTEAP at Beihang University, China; Senior Research Fellow, UNU-INWEH; Founding Director, Institute of Remote Sensing and GIS, Jahangirnagar University",
+    "areas": "Remote sensing, GIS, political ecology, climate change adaptation, disaster risk reduction, vulnerability analysis, and environmental development.",
+    "bio": "Professor Sheikh Tawhidul Islam works across remote sensing, GIS, climate change adaptation, disaster risk reduction, and environmental development. His supplied professional profile lists appointments with RCSSTEAP at Beihang University, UNU-INWEH, and Jahangirnagar University.",
+    "photo": "media/sheikh-tawhidul-islam.jpg",
     "orcid": "",
     "scholar": ""
   },
   "researchers": [],
-  "graduateResearchers": [],
+  "graduateResearchers": [
+    {
+      "name": "Puspendu Biswas Paul",
+      "role": "PhD / Graduate Researcher · Beihang University",
+      "areas": "Satellite remote sensing, DEM evaluation, geospatial analysis, water resources, and flood screening.",
+      "bio": "Puspendu Biswas Paul completed an MSc in Space Technology Applications at Beihang University and a BSc in Agricultural Engineering at Sylhet Agricultural University. His research includes satellite DEM benchmarking in Bangladesh and vertical-reference flood screening in the Ganges–Brahmaputra–Meghna delta.",
+      "photo": "media/puspendu-biswas-paul.jpeg",
+      "orcid": "https://orcid.org/0009-0002-7216-0102",
+      "scholar": ""
+    }
+  ],
   "visitingResearchers": []
 }

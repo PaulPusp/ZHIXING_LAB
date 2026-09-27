@@ -3,6 +3,8 @@ backend:
   turbo_site_id: 2af48436-2bc6-420e-8d02-e1f25073f94a
   branch: main
 
+site_url: https://paulpusp.github.io/ZHIXING_LAB/
+display_url: https://paulpusp.github.io/ZHIXING_LAB/
 publish_mode: editorial_workflow
 media_folder: public/media
 public_folder: media
@@ -128,3 +130,19 @@ collections:
           - {label: Beihang department and founding date, name: department, widget: text}
           - {label: RCSSTEAP relationship, name: rcssteapRelationship, widget: text, hint: 'Do not claim sponsorship without formal confirmation.'}
           - {label: DIKWA paper citation, name: dikwaCitation, widget: text}
+  - name: localization
+    label: Website translations
+    files:
+      - label: English to Chinese and French
+        name: translation_table
+        file: content/translations.json
+        format: json
+        fields:
+          - label: Translated phrases
+            name: entries
+            widget: list
+            summary: '{{fields.source}}'
+            fields:
+              - {label: Exact English source phrase, name: source, widget: text}
+              - {label: Chinese, name: zh, widget: text}
+              - {label: French, name: fr, widget: text}

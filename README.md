@@ -44,3 +44,21 @@ The three case-study routes are fixed in `app/projects/`; edit their fields in
 the CMS, but adding a fourth project or renaming a slug requires a code route.
 Publication and member records may be added or removed entirely in the CMS.
 Image uploads are committed to `public/media/`, not stored in Turbo.
+
+## Languages and mobile
+
+The header language selector offers English, Chinese, and French. Selection is
+kept on this device and can be shared using `?lang=zh` or `?lang=fr`. Each page
+translates its interface and current structured content via
+`content/translations.json`. The CMS exposes this file under **Website
+translations**. When changing an English sentence or adding a publication or
+person, add the exact English sentence and its Chinese and French versions to
+that collection. Missing translations fall back to English; do not treat that
+fallback as a completed translation. Names, DOI strings and web addresses stay
+unchanged. This is client-side localization, so search engines primarily index
+the English static export, not distinct language pages.
+
+The layout uses a narrow-screen navigation menu, a separate visible language
+control on mobile, responsive cards, and touch-size controls. Team portraits
+are sourced from the user-supplied asset bundle; institutional appointments in
+that bundle should be checked before asserting them as current externally.

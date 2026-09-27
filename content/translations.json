@@ -1,0 +1,859 @@
+{
+  "entries": [
+    {
+      "source": "Research",
+      "zh": "研究方向",
+      "fr": "Recherche"
+    },
+    {
+      "source": "Projects",
+      "zh": "项目",
+      "fr": "Projets"
+    },
+    {
+      "source": "People",
+      "zh": "团队成员",
+      "fr": "Équipe"
+    },
+    {
+      "source": "Collaborate",
+      "zh": "合作",
+      "fr": "Collaborer"
+    },
+    {
+      "source": "About",
+      "zh": "关于我们",
+      "fr": "À propos"
+    },
+    {
+      "source": "Menu",
+      "zh": "菜单",
+      "fr": "Menu"
+    },
+    {
+      "source": "Space Lab · Beihang University",
+      "zh": "空间实验室 · 北京航空航天大学",
+      "fr": "Laboratoire spatial · Université Beihang"
+    },
+    {
+      "source": "At Beihang University · Translating space science into resilient action.",
+      "zh": "北京航空航天大学 · 将空间科学转化为韧性行动。",
+      "fr": "À l’Université Beihang · Traduire les sciences spatiales en actions pour la résilience."
+    },
+    {
+      "source": "Publications",
+      "zh": "研究成果",
+      "fr": "Publications"
+    },
+    {
+      "source": "Data & Code",
+      "zh": "数据与代码",
+      "fr": "Données et code"
+    },
+    {
+      "source": "Contact",
+      "zh": "联系",
+      "fr": "Contact"
+    },
+    {
+      "source": "Coming soon.",
+      "zh": "即将推出。",
+      "fr": "À venir."
+    },
+    {
+      "source": "ZHIXING Space Lab",
+      "zh": "知行空间实验室",
+      "fr": "Laboratoire spatial ZHIXING"
+    },
+    {
+      "source": "Beihang University / Applied research",
+      "zh": "北京航空航天大学 / 应用研究",
+      "fr": "Université Beihang / Recherche appliquée"
+    },
+    {
+      "source": "Space Lab.",
+      "zh": "空间实验室。",
+      "fr": "Laboratoire spatial."
+    },
+    {
+      "source": "From Space Science and Digital Intelligence to Resilient Action",
+      "zh": "从空间科学与数字智能走向韧性行动",
+      "fr": "Des sciences spatiales et de l’intelligence numérique aux actions pour la résilience"
+    },
+    {
+      "source": "We translate Earth observation, geospatial intelligence and AI into research applications for environmental resilience, hazard intelligence and climate-smart decision systems.",
+      "zh": "我们将地球观测、地理空间智能与人工智能应用于环境韧性、灾害研判和气候适应型决策系统研究。",
+      "fr": "Nous appliquons l’observation de la Terre, l’intelligence géospatiale et l’IA à la résilience environnementale, à l’analyse des aléas et aux systèmes de décision adaptés au climat."
+    },
+    {
+      "source": "Explore Our Research ↗",
+      "zh": "探索研究方向 ↗",
+      "fr": "Découvrir nos recherches ↗"
+    },
+    {
+      "source": "Collaborate with ZHIXING →",
+      "zh": "与知行合作 →",
+      "fr": "Collaborer avec ZHIXING →"
+    },
+    {
+      "source": "Geospatial research",
+      "zh": "地理空间研究",
+      "fr": "Recherche géospatiale"
+    },
+    {
+      "source": "Terrain × water signals",
+      "zh": "地形 × 水文信号",
+      "fr": "Terrain × signaux hydrologiques"
+    },
+    {
+      "source": "Illustrative schematic · not measured data",
+      "zh": "示意图 · 非实测数据",
+      "fr": "Schéma illustratif · aucune donnée mesurée"
+    },
+    {
+      "source": "Our research logic",
+      "zh": "研究逻辑",
+      "fr": "Notre démarche de recherche"
+    },
+    {
+      "source": "From observation to response.",
+      "zh": "从观测到应对。",
+      "fr": "De l’observation à l’action."
+    },
+    {
+      "source": "知 · 行 — knowledge becomes valuable when it informs action.",
+      "zh": "知 · 行——知识在指导行动时体现价值。",
+      "fr": "知 · 行 — la connaissance prend de la valeur lorsqu’elle éclaire l’action."
+    },
+    {
+      "source": "Data → Information → Knowledge → Wisdom → Action · 知行合一",
+      "zh": "数据 → 信息 → 知识 → 智慧 → 行动 · 知行合一",
+      "fr": "Données → Information → Connaissance → Discernement → Action · 知行合一"
+    },
+    {
+      "source": "Four connected areas.",
+      "zh": "四个相互关联的方向。",
+      "fr": "Quatre domaines reliés."
+    },
+    {
+      "source": "See research →",
+      "zh": "查看研究 →",
+      "fr": "Voir la recherche →"
+    },
+    {
+      "source": "Selected work",
+      "zh": "代表性工作",
+      "fr": "Travaux choisis"
+    },
+    {
+      "source": "Projects in focus.",
+      "zh": "重点项目。",
+      "fr": "Projets à la une."
+    },
+    {
+      "source": "Research / 04 areas",
+      "zh": "研究 / 四个方向",
+      "fr": "Recherche / quatre domaines"
+    },
+    {
+      "source": "Methods tied to an application.",
+      "zh": "面向应用的方法。",
+      "fr": "Des méthodes liées à un usage concret."
+    },
+    {
+      "source": "Our research connects Earth observation inputs, analytic methods and a defined decision context. Project status and validation limits remain explicit.",
+      "zh": "我们的研究将地球观测数据、分析方法与明确的决策场景相连接，并清晰标注项目进展与验证边界。",
+      "fr": "Nos travaux relient les données d’observation de la Terre, les méthodes d’analyse et un contexte décisionnel précis. L’état des projets et les limites de validation sont indiqués clairement."
+    },
+    {
+      "source": "Methods",
+      "zh": "方法",
+      "fr": "Méthodes"
+    },
+    {
+      "source": "Data",
+      "zh": "数据",
+      "fr": "Données"
+    },
+    {
+      "source": "Applications",
+      "zh": "应用",
+      "fr": "Applications"
+    },
+    {
+      "source": "Research area",
+      "zh": "研究方向",
+      "fr": "Domaine de recherche"
+    },
+    {
+      "source": "RESEARCH AREA",
+      "zh": "研究方向",
+      "fr": "DOMAINE DE RECHERCHE"
+    },
+    {
+      "source": "Explore methods ↗",
+      "zh": "查看方法 ↗",
+      "fr": "Voir les méthodes ↗"
+    },
+    {
+      "source": "Selected projects",
+      "zh": "代表性项目",
+      "fr": "Projets choisis"
+    },
+    {
+      "source": "Research, methods, limits.",
+      "zh": "研究、方法与边界。",
+      "fr": "Recherche, méthodes et limites."
+    },
+    {
+      "source": "Three project directions with distinct maturity and evidence. Each case study distinguishes demonstrated analysis from proposed work.",
+      "zh": "三个项目方向的成熟度与证据基础各不相同。每个案例均区分已开展的分析与拟议工作。",
+      "fr": "Trois projets, à des stades de maturité et de preuve différents. Chaque étude de cas distingue les analyses réalisées des travaux proposés."
+    },
+    {
+      "source": "Illustrative data schematic",
+      "zh": "数据示意图",
+      "fr": "Schéma de données illustratif"
+    },
+    {
+      "source": "View case study →",
+      "zh": "查看案例 →",
+      "fr": "Voir l’étude de cas →"
+    },
+    {
+      "source": "PROJECT",
+      "zh": "项目",
+      "fr": "PROJET"
+    },
+    {
+      "source": "← All projects",
+      "zh": "← 所有项目",
+      "fr": "← Tous les projets"
+    },
+    {
+      "source": "Case study",
+      "zh": "案例研究",
+      "fr": "Étude de cas"
+    },
+    {
+      "source": "Problem",
+      "zh": "研究问题",
+      "fr": "Problème"
+    },
+    {
+      "source": "Method",
+      "zh": "方法",
+      "fr": "Méthode"
+    },
+    {
+      "source": "Current Status",
+      "zh": "当前阶段",
+      "fr": "État actuel"
+    },
+    {
+      "source": "What Was Demonstrated",
+      "zh": "已展示的结果",
+      "fr": "Résultats démontrés"
+    },
+    {
+      "source": "Limitations",
+      "zh": "局限性",
+      "fr": "Limites"
+    },
+    {
+      "source": "Partners/Collaborators",
+      "zh": "合作方/协作者",
+      "fr": "Partenaires et collaborateurs"
+    },
+    {
+      "source": "Outputs",
+      "zh": "研究产出",
+      "fr": "Productions"
+    },
+    {
+      "source": "The lab and its collaborators.",
+      "zh": "实验室成员与协作者。",
+      "fr": "Le laboratoire et ses collaborateurs."
+    },
+    {
+      "source": "Lab lead",
+      "zh": "实验室负责人",
+      "fr": "Responsable du laboratoire"
+    },
+    {
+      "source": "Researchers",
+      "zh": "研究人员",
+      "fr": "Chercheurs"
+    },
+    {
+      "source": "PhD/Graduate Researchers",
+      "zh": "博士/研究生研究人员",
+      "fr": "Doctorants et chercheurs diplômés"
+    },
+    {
+      "source": "Collaborators",
+      "zh": "协作者",
+      "fr": "Collaborateurs"
+    },
+    {
+      "source": "Visiting Researchers",
+      "zh": "访问研究人员",
+      "fr": "Chercheurs invités"
+    },
+    {
+      "source": "Portrait pending",
+      "zh": "肖像待补充",
+      "fr": "Portrait à ajouter"
+    },
+    {
+      "source": "ORCID ↗",
+      "zh": "ORCID ↗",
+      "fr": "ORCID ↗"
+    },
+    {
+      "source": "Google Scholar ↗",
+      "zh": "谷歌学术 ↗",
+      "fr": "Google Scholar ↗"
+    },
+    {
+      "source": "No verified profiles published yet.",
+      "zh": "暂无已核实的公开资料。",
+      "fr": "Aucun profil vérifié publié à ce jour."
+    },
+    {
+      "source": "Research outputs",
+      "zh": "研究成果",
+      "fr": "Productions scientifiques"
+    },
+    {
+      "source": "Only verified entries are listed.",
+      "zh": "仅列出已核实的条目。",
+      "fr": "Seules les références vérifiées sont présentées."
+    },
+    {
+      "source": "Read publication ↗",
+      "zh": "阅读论文 ↗",
+      "fr": "Lire la publication ↗"
+    },
+    {
+      "source": "No verified publications listed yet.",
+      "zh": "暂无已核实的出版物。",
+      "fr": "Aucune publication vérifiée pour le moment."
+    },
+    {
+      "source": "Build Applied Space-Intelligence Projects With Us",
+      "zh": "与我们共建空间智能应用项目",
+      "fr": "Construisons ensemble des projets d’intelligence spatiale appliquée"
+    },
+    {
+      "source": "Define an application, its required evidence and the criteria by which a joint pilot would be judged.",
+      "zh": "明确应用场景、所需证据以及联合试点的评估标准。",
+      "fr": "Définir l’usage, les preuves nécessaires et les critères d’évaluation d’un projet pilote commun."
+    },
+    {
+      "source": "We bring",
+      "zh": "我们提供",
+      "fr": "Notre contribution"
+    },
+    {
+      "source": "Scientific problem definition · geospatial and remote-sensing methods · validation design · local and institutional context · field knowledge · academic research capability",
+      "zh": "科学问题定义 · 地理空间与遥感方法 · 验证设计 · 地方与机构背景 · 实地知识 · 学术研究能力",
+      "fr": "Définition scientifique du problème · méthodes géospatiales et télédétection · conception de la validation · contexte local et institutionnel · connaissance du terrain · capacité de recherche"
+    },
+    {
+      "source": "Partners may bring",
+      "zh": "合作方可提供",
+      "fr": "Apports possibles des partenaires"
+    },
+    {
+      "source": "Satellite tasking · proprietary imagery · AI infrastructure · sensors · computing · engineering support · funding",
+      "zh": "卫星任务规划 · 专有影像 · 人工智能基础设施 · 传感器 · 算力 · 工程支持 · 资金",
+      "fr": "Programmation satellitaire · imagerie propriétaire · infrastructure IA · capteurs · calcul · appui technique · financement"
+    },
+    {
+      "source": "Collaboration models",
+      "zh": "合作方式",
+      "fr": "Modalités de collaboration"
+    },
+    {
+      "source": "Sponsored Research · Joint Pilot · Data/Satellite Access Collaboration · Algorithm Co-development · Student/Researcher Support · Joint Funding Proposal",
+      "zh": "委托研究 · 联合试点 · 数据/卫星资源合作 · 算法联合开发 · 学生/研究人员支持 · 联合申请资助",
+      "fr": "Recherche financée · projet pilote conjoint · accès aux données et satellites · codéveloppement d’algorithmes · soutien aux étudiants et chercheurs · demande de financement commune"
+    },
+    {
+      "source": "Discuss a Collaboration",
+      "zh": "讨论合作",
+      "fr": "Discuter d’une collaboration"
+    },
+    {
+      "source": "Share a technical use case, available data and the decision the pilot should inform.",
+      "zh": "请说明技术应用场景、可用数据以及试点所需支持的决策。",
+      "fr": "Présentez un cas d’usage technique, les données disponibles et la décision que le pilote doit éclairer."
+    },
+    {
+      "source": "[FILL: contact email to enable the mailto call to action]",
+      "zh": "[待补充：合作联系邮箱]",
+      "fr": "[À COMPLÉTER : adresse de contact pour la collaboration]"
+    },
+    {
+      "source": "Partnership",
+      "zh": "合作伙伴关系",
+      "fr": "Partenariat"
+    },
+    {
+      "source": "Discuss collaboration ↗",
+      "zh": "讨论合作 ↗",
+      "fr": "Discuter d’une collaboration ↗"
+    },
+    {
+      "source": "About / 知行",
+      "zh": "关于 / 知行",
+      "fr": "À propos / 知行"
+    },
+    {
+      "source": "Knowledge meets action.",
+      "zh": "知与行相结合。",
+      "fr": "La connaissance en action."
+    },
+    {
+      "source": "知 (knowledge) and 行 (action): scientific knowledge becomes meaningful when it informs action. ZHIXING Space Lab is formally established at Beihang University.",
+      "zh": "知代表知识，行代表行动：科学知识在指导行动时体现意义。知行空间实验室设立于北京航空航天大学。",
+      "fr": "知 (connaissance) et 行 (action) : les connaissances scientifiques prennent sens lorsqu’elles guident l’action. Le laboratoire spatial ZHIXING est établi à l’Université Beihang."
+    },
+    {
+      "source": "Research framework",
+      "zh": "研究框架",
+      "fr": "Cadre de recherche"
+    },
+    {
+      "source": "Data to action · 知行合一",
+      "zh": "从数据到行动 · 知行合一",
+      "fr": "Des données à l’action · 知行合一"
+    },
+    {
+      "source": "The Data–Information–Knowledge–Wisdom–Action chain describes how observations are processed, interpreted and placed in decision context. It is discussed in “Protecting Development Gains Beyond 2030.”",
+      "zh": "数据—信息—知识—智慧—行动链描述了如何处理和解释观测结果，并将其置于决策场景中。该框架见《Protecting Development Gains Beyond 2030》。",
+      "fr": "La chaîne Données–Information–Connaissance–Discernement–Action décrit le traitement et l’interprétation des observations dans un contexte de décision. Elle est présentée dans « Protecting Development Gains Beyond 2030 »."
+    },
+    {
+      "source": "Mission",
+      "zh": "使命",
+      "fr": "Mission"
+    },
+    {
+      "source": "Vision",
+      "zh": "愿景",
+      "fr": "Vision"
+    },
+    {
+      "source": "Institutional context",
+      "zh": "机构背景",
+      "fr": "Contexte institutionnel"
+    },
+    {
+      "source": "Beihang University",
+      "zh": "北京航空航天大学",
+      "fr": "Université Beihang"
+    },
+    {
+      "source": "ZHIXING Space Lab is formally established at Beihang University.",
+      "zh": "知行空间实验室设立于北京航空航天大学。",
+      "fr": "Le laboratoire spatial ZHIXING est établi à l’Université Beihang."
+    },
+    {
+      "source": "RCSSTEAP (China)",
+      "zh": "亚太空间科学与技术教育区域中心（中国）",
+      "fr": "RCSSTEAP (Chine)"
+    },
+    {
+      "source": "A regional space science and technology education centre hosted by Beihang University.",
+      "zh": "由北京航空航天大学承办的空间科学与技术教育区域中心。",
+      "fr": "Centre régional d’enseignement des sciences et technologies spatiales accueilli par l’Université Beihang."
+    },
+    {
+      "source": "Content editor",
+      "zh": "内容编辑器",
+      "fr": "Éditeur de contenu"
+    },
+    {
+      "source": "Opening the lab editor…",
+      "zh": "正在打开实验室内容编辑器…",
+      "fr": "Ouverture de l’éditeur du laboratoire…"
+    },
+    {
+      "source": "Open the editor if you are not redirected",
+      "zh": "未自动跳转？打开编辑器",
+      "fr": "Ouvrir l’éditeur si la redirection échoue"
+    },
+    {
+      "source": "Data → Information: calibrated, geolocated observations become analysis-ready evidence.",
+      "zh": "数据 → 信息：经过校准和定位的观测转化为可分析证据。",
+      "fr": "Données → Information : les observations étalonnées et géoréférencées deviennent exploitables."
+    },
+    {
+      "source": "Information → Knowledge: changes are tested against terrain and event context.",
+      "zh": "信息 → 知识：结合地形与事件背景检验变化。",
+      "fr": "Information → Connaissance : les changements sont examinés selon le terrain et l’événement."
+    },
+    {
+      "source": "Data → Knowledge: water and terrain signals are interpreted with their measurement limits.",
+      "zh": "数据 → 知识：在测量局限内解释水文与地形信号。",
+      "fr": "Données → Connaissance : les signaux hydrologiques et topographiques sont interprétés avec leurs limites de mesure."
+    },
+    {
+      "source": "Knowledge → Wisdom → Action: evidence is framed for a defined decision and validation test.",
+      "zh": "知识 → 智慧 → 行动：围绕明确的决策和验证任务组织证据。",
+      "fr": "Connaissance → Discernement → Action : les preuves sont structurées pour une décision et un test de validation précis."
+    },
+    {
+      "source": "Earth Observation & Geospatial Intelligence",
+      "zh": "地球观测与地理空间智能",
+      "fr": "Observation de la Terre et intelligence géospatiale"
+    },
+    {
+      "source": "SAR · Optical · Hyperspectral · DEM · Geodesy · Environmental Monitoring",
+      "zh": "SAR · 光学 · 高光谱 · DEM · 大地测量 · 环境监测",
+      "fr": "SAR · optique · hyperspectral · MNT · géodésie · suivi environnemental"
+    },
+    {
+      "source": "SAR interpretation · DEM evaluation · multi-sensor analysis",
+      "zh": "SAR解译 · DEM评估 · 多传感器分析",
+      "fr": "Interprétation SAR · évaluation des MNT · analyse multicapteur"
+    },
+    {
+      "source": "Sentinel-1 · DeltaDTM · ICESat-1 GLAS · Survey of Bangladesh heights",
+      "zh": "Sentinel-1 · DeltaDTM · ICESat-1 GLAS · 孟加拉国测绘局高程",
+      "fr": "Sentinel-1 · DeltaDTM · ICESat-1 GLAS · altitudes du Survey of Bangladesh"
+    },
+    {
+      "source": "GBM flood screening · Bangladesh terrain benchmarking",
+      "zh": "GBM三角洲洪水筛查 · 孟加拉国地形数据评估",
+      "fr": "Dépistage des crues dans le delta GBM · évaluation des terrains au Bangladesh"
+    },
+    {
+      "source": "AI for Environmental & Hazard Intelligence",
+      "zh": "环境与灾害智能分析",
+      "fr": "IA pour l’environnement et l’analyse des aléas"
+    },
+    {
+      "source": "GeoAI · Change Detection · InSAR · Hazard Screening · Multi-sensor Analytics",
+      "zh": "地理空间人工智能 · 变化检测 · InSAR · 灾害筛查 · 多传感器分析",
+      "fr": "IA géospatiale · détection du changement · InSAR · dépistage des aléas · analyse multicapteur"
+    },
+    {
+      "source": "SAR change detection · vertical-reference classification · precursor design",
+      "zh": "SAR变化检测 · 高程基准分类 · 前兆指标设计",
+      "fr": "Détection du changement SAR · classification des références verticales · conception d’indicateurs précurseurs"
+    },
+    {
+      "source": "Sentinel-1 · paired DeltaDTM · [FILL: Nepal precursor datasets]",
+      "zh": "Sentinel-1 · 配对DeltaDTM · [待补充：尼泊尔前兆数据集]",
+      "fr": "Sentinel-1 · DeltaDTM appariés · [À COMPLÉTER : données de précurseurs au Népal]"
+    },
+    {
+      "source": "VRFSZ research · proposed Nepal hazard framework",
+      "zh": "VRFSZ研究 · 拟议的尼泊尔灾害框架",
+      "fr": "Étude VRFSZ · cadre proposé pour les aléas au Népal"
+    },
+    {
+      "source": "Water & Terrain Intelligence",
+      "zh": "水文与地形智能分析",
+      "fr": "Analyse de l’eau et du terrain"
+    },
+    {
+      "source": "GRACE-based water storage analysis · DEM/elevation benchmarking · drought-storage coupling",
+      "zh": "基于GRACE的水储量分析 · DEM/高程评估 · 干旱与储量关系",
+      "fr": "Analyse du stockage d’eau par GRACE · évaluation des MNT et altitudes · liens sécheresse-stockage"
+    },
+    {
+      "source": "TWSA–SPEI comparison · elevation error benchmarking",
+      "zh": "TWSA–SPEI比较 · 高程误差评估",
+      "fr": "Comparaison TWSA–SPEI · évaluation des erreurs altimétriques"
+    },
+    {
+      "source": "GRACE/GRACE-FO · SPEI · SRTM · NASADEM · Copernicus GLO-30 · ALOS AW3D30",
+      "zh": "GRACE/GRACE-FO · SPEI · SRTM · NASADEM · Copernicus GLO-30 · ALOS AW3D30",
+      "fr": "GRACE/GRACE-FO · SPEI · SRTM · NASADEM · Copernicus GLO-30 · ALOS AW3D30"
+    },
+    {
+      "source": "Bangladesh water-resource analysis · Sirajganj flood terrain selection",
+      "zh": "孟加拉国水资源分析 · 锡拉杰甘杰洪水地形数据选择",
+      "fr": "Analyse des ressources en eau au Bangladesh · sélection du terrain pour les crues à Sirajganj"
+    },
+    {
+      "source": "Data-to-Decision & Resilience Systems",
+      "zh": "从数据到决策的韧性系统",
+      "fr": "Systèmes de résilience et passage des données à la décision"
+    },
+    {
+      "source": "Decision support · institutional integration · applied resilience pipelines",
+      "zh": "决策支持 · 机构整合 · 应用型韧性流程",
+      "fr": "Appui à la décision · intégration institutionnelle · processus appliqués de résilience"
+    },
+    {
+      "source": "Use-case scoping · validation design · GIS interpretation",
+      "zh": "应用场景界定 · 验证设计 · GIS解读",
+      "fr": "Définition des cas d’usage · conception de la validation · interprétation SIG"
+    },
+    {
+      "source": "Project-specific geospatial outputs · [FILL: institutional input datasets]",
+      "zh": "项目地理空间成果 · [待补充：机构输入数据集]",
+      "fr": "Résultats géospatiaux propres aux projets · [À COMPLÉTER : données institutionnelles]"
+    },
+    {
+      "source": "Parcel-level flood information research · proposed partner pilot",
+      "zh": "地块级洪水信息研究 · 拟议的合作试点",
+      "fr": "Étude de l’information sur les crues à la parcelle · pilote partenarial proposé"
+    },
+    {
+      "source": "Nepal Multi-Hazard Precursor Framework",
+      "zh": "尼泊尔多灾种前兆框架",
+      "fr": "Cadre de précurseurs multirisques au Népal"
+    },
+    {
+      "source": "Two proposed satellite precursor tracks for landslide and cryosphere-related flood hazards in the Bhote Koshi–Trishuli corridor, Nepal.",
+      "zh": "针对尼泊尔博特科西—特里苏里走廊滑坡与冰冻圈相关洪水灾害的两条拟议卫星前兆研究路径。",
+      "fr": "Deux axes proposés d’observation satellitaire des précurseurs de glissements de terrain et de crues liées à la cryosphère dans le corridor Bhote Koshi–Trishuli, au Népal."
+    },
+    {
+      "source": "[FILL: current stage — proposal / pilot underway / PhD-track]",
+      "zh": "[待补充：当前阶段——方案/试点进行中/博士研究]",
+      "fr": "[À COMPLÉTER : stade actuel — proposition / pilote en cours / projet doctoral]"
+    },
+    {
+      "source": "VRFSZ — Vertical-Reference Flood-Risk Screening",
+      "zh": "VRFSZ——高程基准敏感性洪水风险筛查",
+      "fr": "VRFSZ — dépistage du risque de crue selon la référence verticale"
+    },
+    {
+      "source": "Paired DeltaDTM elevation references and Sentinel-1 flood detections examine changes in low-elevation screening across the GBM delta.",
+      "zh": "利用配对DeltaDTM高程基准和Sentinel-1洪水检测，研究GBM三角洲低高程筛查结果的变化。",
+      "fr": "Des références altimétriques DeltaDTM appariées et des détections de crue Sentinel-1 servent à étudier les changements du dépistage des basses altitudes dans le delta GBM."
+    },
+    {
+      "source": "[FILL: current stage — under review / published / pilot area size]",
+      "zh": "[待补充：当前阶段——审稿中/已发表/试点面积]",
+      "fr": "[À COMPLÉTER : stade actuel — en évaluation / publié / superficie du pilote]"
+    },
+    {
+      "source": "GRACE/GRACE-FO water storage and SPEI analysis alongside satellite DEM benchmarking for Bangladesh floodplain terrain.",
+      "zh": "结合GRACE/GRACE-FO水储量、SPEI分析和孟加拉国泛滥平原卫星DEM评估。",
+      "fr": "Analyse du stockage d’eau GRACE/GRACE-FO et du SPEI, associée à l’évaluation des MNT satellitaires des plaines inondables du Bangladesh."
+    },
+    {
+      "source": "[FILL: current stage — JSTARS revision in progress / etc.]",
+      "zh": "[待补充：当前阶段——JSTARS修订中等]",
+      "fr": "[À COMPLÉTER : stade actuel — révision JSTARS en cours, etc.]"
+    },
+    {
+      "source": "Mountain hazards can cascade across slopes and river corridors. The proposed research tests whether satellite-derived precursors can support a defensible screening workflow.",
+      "zh": "山地灾害可沿山坡和河流廊道形成级联效应。拟议研究检验卫星前兆信息能否支撑可辩护的筛查流程。",
+      "fr": "Les aléas de montagne peuvent se propager des versants aux corridors fluviaux. Le projet examine si des précurseurs satellitaires peuvent soutenir un dépistage défendable."
+    },
+    {
+      "source": "[FILL: confirmed precipitation, slope-motion, snow, lake and field-reference datasets for Nepal]",
+      "zh": "[待补充：尼泊尔降水、坡体运动、积雪、湖泊及实地参考数据集]",
+      "fr": "[À COMPLÉTER : données confirmées sur les précipitations, mouvements de versant, neige, lacs et références de terrain au Népal]"
+    },
+    {
+      "source": "Proposed tracks: rainfall and hydrogeological triggers for landslides; cryosphere-related signals for flood precursor research. Thresholds and validation design remain to be specified.",
+      "zh": "拟议路径：滑坡的降雨和水文地质触发因素；洪水前兆研究中的冰冻圈相关信号。阈值与验证设计尚待确定。",
+      "fr": "Axes proposés : déclencheurs pluviométriques et hydrogéologiques des glissements ; signaux cryosphériques précurseurs de crues. Les seuils et la validation restent à définir."
+    },
+    {
+      "source": "Conceptual two-track research scope; warning skill has not been demonstrated.",
+      "zh": "目前为双路径概念研究框架；尚未证明预警能力。",
+      "fr": "Cadre conceptuel à deux axes ; aucune capacité d’alerte démontrée."
+    },
+    {
+      "source": "[FILL: documented limitations and field validation constraints after pilot design]",
+      "zh": "[待补充：试点设计后的局限性与实地验证约束]",
+      "fr": "[À COMPLÉTER : limites documentées et contraintes de validation de terrain après la conception du pilote]"
+    },
+    {
+      "source": "[FILL: verified partner or collaborator names; do not imply an agreement]",
+      "zh": "[待补充：已核实的合作方或协作者；不得暗示已达成协议]",
+      "fr": "[À COMPLÉTER : partenaires ou collaborateurs vérifiés ; ne pas suggérer un accord]"
+    },
+    {
+      "source": "[FILL: verified proposal, pilot or publication outputs]",
+      "zh": "[待补充：已核实的方案、试点或出版成果]",
+      "fr": "[À COMPLÉTER : propositions, pilotes ou publications vérifiés]"
+    },
+    {
+      "source": "Low-elevation screening can change when the vertical reference of terrain data changes, affecting how flood exposure is interpreted.",
+      "zh": "地形数据的高程基准变化可能改变低高程筛查结果，进而影响洪水暴露的解读。",
+      "fr": "Le dépistage des basses altitudes peut changer avec la référence verticale du terrain, ce qui modifie l’interprétation de l’exposition aux crues."
+    },
+    {
+      "source": "Paired DeltaDTM elevation references and Sentinel-1 SAR event observations in the Ganges–Brahmaputra–Meghna delta.",
+      "zh": "恒河—布拉马普特拉河—梅克纳河三角洲的配对DeltaDTM高程基准与Sentinel-1 SAR事件观测。",
+      "fr": "Références altimétriques DeltaDTM appariées et observations événementielles SAR Sentinel-1 dans le delta du Gange–Brahmapoutre–Meghna."
+    },
+    {
+      "source": "Compare low-elevation classes between paired reference surfaces; relate reclassified locations to event-specific SAR flood detection.",
+      "zh": "比较配对高程基准表面的低高程类别，并将重新分类区域与特定事件的SAR洪水检测结果关联。",
+      "fr": "Comparer les classes de basse altitude entre surfaces appariées et relier les zones reclassées aux détections SAR propres à chaque crue."
+    },
+    {
+      "source": "Research analysis examines vertical-reference sensitivity in the GBM delta; flood occurrence data do not independently validate exposure at parcel scale.",
+      "zh": "研究分析GBM三角洲的高程基准敏感性；洪水发生数据不能独立验证地块尺度暴露。",
+      "fr": "L’analyse étudie la sensibilité à la référence verticale dans le delta GBM ; les données de crue ne valident pas indépendamment l’exposition à la parcelle."
+    },
+    {
+      "source": "[FILL: approved, project-specific uncertainty and validation statement]",
+      "zh": "[待补充：经批准的项目不确定性与验证说明]",
+      "fr": "[À COMPLÉTER : déclaration approuvée sur l’incertitude et la validation du projet]"
+    },
+    {
+      "source": "[FILL: verified project collaborator names]",
+      "zh": "[待补充：已核实的项目协作者姓名]",
+      "fr": "[À COMPLÉTER : collaborateurs vérifiés du projet]"
+    },
+    {
+      "source": "[FILL: manuscript status and verified public outputs]",
+      "zh": "[待补充：论文状态与已核实的公开成果]",
+      "fr": "[À COMPLÉTER : état du manuscrit et productions publiques vérifiées]"
+    },
+    {
+      "source": "Water storage signals and elevation errors require separate interpretation before they can inform floodplain decisions.",
+      "zh": "水储量信号与高程误差需分别解释，才能用于泛滥平原决策。",
+      "fr": "Les signaux de stockage d’eau et les erreurs altimétriques nécessitent des interprétations distinctes avant d’éclairer des décisions en plaine inondable."
+    },
+    {
+      "source": "GRACE/GRACE-FO TWSA and SPEI for water analysis; SRTM, NASADEM, Copernicus GLO-30, ALOS AW3D30, ICESat-1 GLAS water heights and Survey of Bangladesh land heights for DEM evaluation.",
+      "zh": "水资源分析使用GRACE/GRACE-FO TWSA和SPEI；DEM评估使用SRTM、NASADEM、Copernicus GLO-30、ALOS AW3D30、ICESat-1 GLAS水面高程及孟加拉国测绘局陆地高程。",
+      "fr": "TWSA GRACE/GRACE-FO et SPEI pour l’eau ; SRTM, NASADEM, Copernicus GLO-30, ALOS AW3D30, altitudes des eaux ICESat-1 GLAS et altitudes terrestres du Survey of Bangladesh pour évaluer les MNT."
+    },
+    {
+      "source": "Compare TWSA with drought indices; benchmark four terrain products against water and land height references in Sirajganj.",
+      "zh": "比较TWSA与干旱指数，并用锡拉杰甘杰的水面和陆地高程参考数据评估四种地形产品。",
+      "fr": "Comparer TWSA aux indices de sécheresse ; évaluer quatre modèles de terrain par rapport aux altitudes de l’eau et du sol à Sirajganj."
+    },
+    {
+      "source": "Comparative terrain benchmarking and water-storage analysis are research workflows. TWSA alone does not establish groundwater depletion.",
+      "zh": "地形比较评估和水储量分析属于研究流程。仅凭TWSA不能判定地下水枯竭。",
+      "fr": "L’évaluation comparative des terrains et l’analyse du stockage d’eau sont des travaux de recherche. TWSA seul ne démontre pas l’épuisement des eaux souterraines."
+    },
+    {
+      "source": "[FILL: verified limitations for TWSA–SPEI work and DEM reference comparison]",
+      "zh": "[待补充：TWSA–SPEI与DEM参考比较中已核实的局限性]",
+      "fr": "[À COMPLÉTER : limites vérifiées des analyses TWSA–SPEI et de la comparaison des MNT]"
+    },
+    {
+      "source": "[FILL: verified collaborators or institutions]",
+      "zh": "[待补充：已核实的协作者或机构]",
+      "fr": "[À COMPLÉTER : collaborateurs ou institutions vérifiés]"
+    },
+    {
+      "source": "[FILL: verified manuscripts, datasets or code releases]",
+      "zh": "[待补充：已核实的论文、数据集或代码发布]",
+      "fr": "[À COMPLÉTER : manuscrits, jeux de données ou codes publiés et vérifiés]"
+    },
+    {
+      "source": "Professor, RCSSTEAP at Beihang University, China; Senior Research Fellow, UNU-INWEH; Founding Director, Institute of Remote Sensing and GIS, Jahangirnagar University",
+      "zh": "中国北京航空航天大学RCSSTEAP教授；联合国大学水、环境与健康研究所高级研究员；贾汉吉尔纳加尔大学遥感与GIS研究所创始主任",
+      "fr": "Professeur au RCSSTEAP, Université Beihang (Chine) ; chercheur principal à l’UNU-INWEH ; directeur fondateur de l’Institut de télédétection et SIG, Université de Jahangirnagar"
+    },
+    {
+      "source": "Remote sensing, GIS, political ecology, climate change adaptation, disaster risk reduction, vulnerability analysis, and environmental development.",
+      "zh": "遥感、GIS、政治生态学、气候变化适应、灾害风险降低、脆弱性分析与环境发展。",
+      "fr": "Télédétection, SIG, écologie politique, adaptation climatique, réduction des risques de catastrophe, analyse de vulnérabilité et développement environnemental."
+    },
+    {
+      "source": "Professor Sheikh Tawhidul Islam works across remote sensing, GIS, climate change adaptation, disaster risk reduction, and environmental development. His supplied professional profile lists appointments with RCSSTEAP at Beihang University, UNU-INWEH, and Jahangirnagar University.",
+      "zh": "谢赫·陶希杜尔·伊斯兰教授的工作涉及遥感、GIS、气候变化适应、灾害风险降低与环境发展。所提供的专业简介列出了他在北京航空航天大学RCSSTEAP、UNU-INWEH及贾汉吉尔纳加尔大学的职务。",
+      "fr": "Le professeur Sheikh Tawhidul Islam travaille sur la télédétection, les SIG, l’adaptation climatique, la réduction des risques et le développement environnemental. Le profil fourni mentionne ses fonctions au RCSSTEAP de Beihang, à l’UNU-INWEH et à l’Université de Jahangirnagar."
+    },
+    {
+      "source": "PhD / Graduate Researcher · Beihang University",
+      "zh": "博士/研究生研究人员 · 北京航空航天大学",
+      "fr": "Doctorant / chercheur diplômé · Université Beihang"
+    },
+    {
+      "source": "Satellite remote sensing, DEM evaluation, geospatial analysis, water resources, and flood screening.",
+      "zh": "卫星遥感、DEM评估、地理空间分析、水资源与洪水筛查。",
+      "fr": "Télédétection satellitaire, évaluation des MNT, analyse géospatiale, ressources en eau et dépistage des crues."
+    },
+    {
+      "source": "Puspendu Biswas Paul completed an MSc in Space Technology Applications at Beihang University and a BSc in Agricultural Engineering at Sylhet Agricultural University. His research includes satellite DEM benchmarking in Bangladesh and vertical-reference flood screening in the Ganges–Brahmaputra–Meghna delta.",
+      "zh": "Puspendu Biswas Paul在北京航空航天大学获得空间技术应用硕士学位，在锡尔赫特农业大学获得农业工程学士学位。他的研究包括孟加拉国卫星DEM评估及恒河—布拉马普特拉河—梅克纳河三角洲的高程基准敏感性洪水筛查。",
+      "fr": "Puspendu Biswas Paul est titulaire d’un master en applications des technologies spatiales de l’Université Beihang et d’une licence en génie agricole de l’Université agricole de Sylhet. Ses travaux portent notamment sur l’évaluation des MNT satellitaires au Bangladesh et le dépistage des crues selon la référence verticale dans le delta du Gange–Brahmapoutre–Meghna."
+    },
+    {
+      "source": "[FILL: approved one-sentence lab mission]",
+      "zh": "[待补充：经批准的实验室使命陈述]",
+      "fr": "[À COMPLÉTER : mission du laboratoire approuvée]"
+    },
+    {
+      "source": "[FILL: approved short lab vision]",
+      "zh": "[待补充：经批准的实验室愿景]",
+      "fr": "[À COMPLÉTER : vision du laboratoire approuvée]"
+    },
+    {
+      "source": "[FILL: verified department and founding date]",
+      "zh": "[待补充：已核实的院系与成立日期]",
+      "fr": "[À COMPLÉTER : département et date de création vérifiés]"
+    },
+    {
+      "source": "[FILL: confirm RCSSTEAP’s formal relationship to ZHIXING before describing it as a lab affiliate or sponsor]",
+      "zh": "[待补充：在称RCSSTEAP为附属或资助单位前，先确认与知行实验室的正式关系]",
+      "fr": "[À COMPLÉTER : confirmer le lien officiel entre RCSSTEAP et ZHIXING avant toute mention d’affiliation ou de soutien]"
+    },
+    {
+      "source": "[FILL: verified citation format and publication status]",
+      "zh": "[待补充：已核实的引文格式与发表状态]",
+      "fr": "[À COMPLÉTER : référence bibliographique et statut de publication vérifiés]"
+    },
+    {
+      "source": "Language",
+      "zh": "语言",
+      "fr": "Langue"
+    },
+    {
+      "source": "Observed signals",
+      "zh": "观测信号",
+      "fr": "Signaux observés"
+    },
+    {
+      "source": "Processed evidence",
+      "zh": "处理后的证据",
+      "fr": "Données traitées"
+    },
+    {
+      "source": "Interpreted patterns",
+      "zh": "已解释的模式",
+      "fr": "Motifs interprétés"
+    },
+    {
+      "source": "Decision context",
+      "zh": "决策场景",
+      "fr": "Contexte décisionnel"
+    },
+    {
+      "source": "Applied response",
+      "zh": "应用行动",
+      "fr": "Action appliquée"
+    },
+    {
+      "source": "Information",
+      "zh": "信息",
+      "fr": "Information"
+    },
+    {
+      "source": "Knowledge",
+      "zh": "知识",
+      "fr": "Connaissance"
+    },
+    {
+      "source": "Wisdom",
+      "zh": "智慧",
+      "fr": "Discernement"
+    },
+    {
+      "source": "Action · 行",
+      "zh": "行动 · 行",
+      "fr": "Action · 行"
+    }
+  ]
+}
