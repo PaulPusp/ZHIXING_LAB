@@ -1,0 +1,44 @@
+{
+  "pillars": [
+    {
+      "id": "earth-observation",
+      "number": "01",
+      "title": "Earth Observation & Geospatial Intelligence",
+      "tags": "SAR · Optical · Hyperspectral · DEM · Geodesy · Environmental Monitoring",
+      "stage": "Data → Information: calibrated, geolocated observations become analysis-ready evidence.",
+      "methods": "SAR interpretation · DEM evaluation · multi-sensor analysis",
+      "data": "Sentinel-1 · DeltaDTM · ICESat-1 GLAS · Survey of Bangladesh heights",
+      "applications": "GBM flood screening · Bangladesh terrain benchmarking"
+    },
+    {
+      "id": "hazard-intelligence",
+      "number": "02",
+      "title": "AI for Environmental & Hazard Intelligence",
+      "tags": "GeoAI · Change Detection · InSAR · Hazard Screening · Multi-sensor Analytics",
+      "stage": "Information → Knowledge: changes are tested against terrain and event context.",
+      "methods": "SAR change detection · vertical-reference classification · precursor design",
+      "data": "Sentinel-1 · paired DeltaDTM · [FILL: Nepal precursor datasets]",
+      "applications": "VRFSZ research · proposed Nepal hazard framework"
+    },
+    {
+      "id": "water-terrain",
+      "number": "03",
+      "title": "Water & Terrain Intelligence",
+      "tags": "GRACE-based water storage analysis · DEM/elevation benchmarking · drought-storage coupling",
+      "stage": "Data → Knowledge: water and terrain signals are interpreted with their measurement limits.",
+      "methods": "TWSA–SPEI comparison · elevation error benchmarking",
+      "data": "GRACE/GRACE-FO · SPEI · SRTM · NASADEM · Copernicus GLO-30 · ALOS AW3D30",
+      "applications": "Bangladesh water-resource analysis · Sirajganj flood terrain selection"
+    },
+    {
+      "id": "decision-systems",
+      "number": "04",
+      "title": "Data-to-Decision & Resilience Systems",
+      "tags": "Decision support · institutional integration · applied resilience pipelines",
+      "stage": "Knowledge → Wisdom → Action: evidence is framed for a defined decision and validation test.",
+      "methods": "Use-case scoping · validation design · GIS interpretation",
+      "data": "Project-specific geospatial outputs · [FILL: institutional input datasets]",
+      "applications": "Parcel-level flood information research · proposed partner pilot"
+    }
+  ]
+}

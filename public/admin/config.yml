@@ -1,0 +1,130 @@
+backend:
+  name: turbo-github
+  turbo_site_id: 2af48436-2bc6-420e-8d02-e1f25073f94a
+  branch: main
+
+publish_mode: editorial_workflow
+media_folder: public/media
+public_folder: media
+
+collections:
+  - name: people
+    label: People
+    files:
+      - label: Lab members
+        name: members
+        file: content/people.json
+        format: json
+        fields:
+          - label: Lab lead
+            name: lead
+            widget: object
+            fields: &member_fields
+              - {label: Name, name: name, widget: string}
+              - {label: Role and affiliation, name: role, widget: string}
+              - {label: Research areas, name: areas, widget: text, required: false}
+              - {label: Short biography, name: bio, widget: text, required: false}
+              - {label: Portrait, name: photo, widget: image, required: false}
+              - {label: ORCID URL, name: orcid, widget: string, required: false}
+              - {label: Google Scholar URL, name: scholar, widget: string, required: false}
+          - label: Researchers
+            name: researchers
+            widget: list
+            summary: '{{fields.name}}'
+            fields: *member_fields
+          - label: PhD and graduate researchers
+            name: graduateResearchers
+            widget: list
+            summary: '{{fields.name}}'
+            fields: *member_fields
+          - label: Visiting researchers
+            name: visitingResearchers
+            widget: list
+            summary: '{{fields.name}}'
+            fields: *member_fields
+      - label: Collaborators
+        name: collaborators
+        file: content/collaborators.json
+        format: json
+        fields:
+          - label: Verified collaborators
+            name: collaborators
+            widget: list
+            summary: '{{fields.name}}'
+            fields: *member_fields
+  - name: publications
+    label: Publications
+    files:
+      - label: Verified publications
+        name: publication_list
+        file: content/publications.json
+        format: json
+        fields:
+          - label: Publications
+            name: publications
+            widget: list
+            summary: '{{fields.title}}'
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Authors as published, name: authors, widget: string}
+              - {label: Journal or venue, name: venue, widget: string}
+              - {label: Year, name: year, widget: number, value_type: int, min: 1900, max: 2100}
+              - {label: Official publication URL, name: url, widget: string, required: false}
+              - {label: DOI, name: doi, widget: string, required: false}
+  - name: research
+    label: Research and projects
+    files:
+      - label: Research areas
+        name: research_areas
+        file: content/research.json
+        format: json
+        fields:
+          - label: Research pillars
+            name: pillars
+            widget: list
+            summary: '{{fields.title}}'
+            fields:
+              - {label: Anchor ID, name: id, widget: string, hint: 'Keep existing IDs; home-page links depend on them.'}
+              - {label: Display number, name: number, widget: string}
+              - {label: Title, name: title, widget: string}
+              - {label: Short methods list, name: tags, widget: string}
+              - {label: DIKWA stage explanation, name: stage, widget: text}
+              - {label: Methods, name: methods, widget: text}
+              - {label: Data, name: data, widget: text}
+              - {label: Applications, name: applications, widget: text}
+      - label: Project case studies
+        name: project_cases
+        file: content/projects.json
+        format: json
+        fields:
+          - label: Projects
+            name: projects
+            widget: list
+            summary: '{{fields.title}}'
+            fields:
+              - {label: Route slug, name: slug, widget: string, hint: 'Keep existing slugs. New projects need a matching Next.js route.'}
+              - {label: Display number, name: number, widget: string}
+              - {label: Project title, name: title, widget: string}
+              - {label: Card summary, name: summary, widget: text}
+              - {label: Current status, name: status, widget: text}
+              - {label: Visual label, name: visual, widget: string, required: false}
+              - {label: Problem, name: problem, widget: text}
+              - {label: Data, name: data, widget: text}
+              - {label: Method, name: method, widget: text}
+              - {label: What was demonstrated, name: demonstrated, widget: text}
+              - {label: Limitations, name: limitations, widget: text}
+              - {label: Partners and collaborators, name: partners, widget: text}
+              - {label: Outputs, name: outputs, widget: text}
+  - name: about
+    label: About the lab
+    files:
+      - label: Mission, vision and institutional context
+        name: about_text
+        file: content/about.json
+        format: json
+        fields:
+          - {label: Mission, name: mission, widget: text}
+          - {label: Vision, name: vision, widget: text}
+          - {label: Beihang department and founding date, name: department, widget: text}
+          - {label: RCSSTEAP relationship, name: rcssteapRelationship, widget: text, hint: 'Do not claim sponsorship without formal confirmation.'}
+          - {label: DIKWA paper citation, name: dikwaCitation, widget: text}

@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "slug": "nepal-hazard",
+      "number": "01",
+      "title": "Nepal Multi-Hazard Precursor Framework",
+      "summary": "Two proposed satellite precursor tracks for landslide and cryosphere-related flood hazards in the Bhote Koshi–Trishuli corridor, Nepal.",
+      "status": "[FILL: current stage — proposal / pilot underway / PhD-track]",
+      "visual": "terrain",
+      "problem": "Mountain hazards can cascade across slopes and river corridors. The proposed research tests whether satellite-derived precursors can support a defensible screening workflow.",
+      "data": "[FILL: confirmed precipitation, slope-motion, snow, lake and field-reference datasets for Nepal]",
+      "method": "Proposed tracks: rainfall and hydrogeological triggers for landslides; cryosphere-related signals for flood precursor research. Thresholds and validation design remain to be specified.",
+      "demonstrated": "Conceptual two-track research scope; warning skill has not been demonstrated.",
+      "limitations": "[FILL: documented limitations and field validation constraints after pilot design]",
+      "partners": "[FILL: verified partner or collaborator names; do not imply an agreement]",
+      "outputs": "[FILL: verified proposal, pilot or publication outputs]"
+    },
+    {
+      "slug": "vrfsz-flood-risk",
+      "number": "02",
+      "title": "VRFSZ — Vertical-Reference Flood-Risk Screening",
+      "summary": "Paired DeltaDTM elevation references and Sentinel-1 flood detections examine changes in low-elevation screening across the GBM delta.",
+      "status": "[FILL: current stage — under review / published / pilot area size]",
+      "visual": "flood",
+      "problem": "Low-elevation screening can change when the vertical reference of terrain data changes, affecting how flood exposure is interpreted.",
+      "data": "Paired DeltaDTM elevation references and Sentinel-1 SAR event observations in the Ganges–Brahmaputra–Meghna delta.",
+      "method": "Compare low-elevation classes between paired reference surfaces; relate reclassified locations to event-specific SAR flood detection.",
+      "demonstrated": "Research analysis examines vertical-reference sensitivity in the GBM delta; flood occurrence data do not independently validate exposure at parcel scale.",
+      "limitations": "[FILL: approved, project-specific uncertainty and validation statement]",
+      "partners": "[FILL: verified project collaborator names]",
+      "outputs": "[FILL: manuscript status and verified public outputs]"
+    },
+    {
+      "slug": "water-terrain-intelligence",
+      "number": "03",
+      "title": "Water & Terrain Intelligence",
+      "summary": "GRACE/GRACE-FO water storage and SPEI analysis alongside satellite DEM benchmarking for Bangladesh floodplain terrain.",
+      "status": "[FILL: current stage — JSTARS revision in progress / etc.]",
+      "visual": "water",
+      "problem": "Water storage signals and elevation errors require separate interpretation before they can inform floodplain decisions.",
+      "data": "GRACE/GRACE-FO TWSA and SPEI for water analysis; SRTM, NASADEM, Copernicus GLO-30, ALOS AW3D30, ICESat-1 GLAS water heights and Survey of Bangladesh land heights for DEM evaluation.",
+      "method": "Compare TWSA with drought indices; benchmark four terrain products against water and land height references in Sirajganj.",
+      "demonstrated": "Comparative terrain benchmarking and water-storage analysis are research workflows. TWSA alone does not establish groundwater depletion.",
+      "limitations": "[FILL: verified limitations for TWSA–SPEI work and DEM reference comparison]",
+      "partners": "[FILL: verified collaborators or institutions]",
+      "outputs": "[FILL: verified manuscripts, datasets or code releases]"
+    }
+  ]
+}
